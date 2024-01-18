@@ -26,8 +26,6 @@ const app = createApp({
             confirmButtonText: "OK",
           });
         })
-      this.user.username = "";
-      this.user.password = "";
 
     }
   }
